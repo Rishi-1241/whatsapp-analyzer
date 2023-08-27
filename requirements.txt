@@ -6,3 +6,5 @@ scikit-learn==1.0.1
 urlextract==1.8.0
 emoji==1.6.3
 collection==0.1.6
+matplotlib==3.7.2
+seaborn==0.12.2
